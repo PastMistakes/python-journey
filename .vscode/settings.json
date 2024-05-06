@@ -1,0 +1,9 @@
+{
+    "window.zoomLevel": 1,
+    "editor.fontSize": 15,
+    "workbench.colorTheme": "GitHub Dark High Contrast",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.wordWrap": "on",
+    "terminal.integrated.fontFamily": "Consolas, 'Courier New', monospace",
+    "editor.fontFamily": "JetBrains Mono"
+}
