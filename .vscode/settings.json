@@ -4,6 +4,6 @@
   "workbench.colorTheme": "GitHub Dark High Contrast",
   "workbench.iconTheme": "vscode-icons",
   "editor.wordWrap": "on",
-  "terminal.integrated.fontFamily": "Consolas, 'Courier New', monospace",
+  "terminal.integrated.fontFamily": "Ubuntu Sans Mono",
   "editor.fontFamily": "Ubuntu Sans Mono"
 }
